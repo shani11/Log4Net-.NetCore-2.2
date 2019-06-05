@@ -1,0 +1,15 @@
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.csproj.CoreCompileInputs.cache
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.RazorAssemblyInfo.cache
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.RazorAssemblyInfo.cs
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.AssemblyInfoInputs.cache
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.AssemblyInfo.cs
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\bin\Debug\netcoreapp2.2\Log4net_Core2.2.deps.json
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\bin\Debug\netcoreapp2.2\Log4net_Core2.2.runtimeconfig.json
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\bin\Debug\netcoreapp2.2\Log4net_Core2.2.runtimeconfig.dev.json
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\bin\Debug\netcoreapp2.2\Log4net_Core2.2.dll
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.RazorTargetAssemblyInfo.cache
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\bin\Debug\netcoreapp2.2\Log4net_Core2.2.pdb
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.dll
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.pdb
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\bin\Debug\netcoreapp2.2\log4net.config
+E:\Repos\Log4net_Core2.2\Log4net_Core2.2\obj\Debug\netcoreapp2.2\Log4net_Core2.2.csprojAssemblyReference.cache

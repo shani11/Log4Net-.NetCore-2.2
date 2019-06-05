@@ -1,0 +1,2 @@
+2019-06-05 16:00:42,126 [6] INFO  - Log4net is configured.
+2019-06-05 16:00:42,151 [6] INFO  - [Log4net_Core2._2.Controllers.ValuesController.Get:20] - I am a simple test of logging--3

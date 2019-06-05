@@ -1,0 +1,45 @@
+INFO  05-32-2019 11:32:02 Log4net_Core2._2.Controllers.ValuesController [7] - We are in Get Method 
+INFO  05-37-2019 11:37:17 Log4net_Core2._2.Controllers.ValuesController [? ?] - We are in Get Method 
+INFO  05-41-2019 11:41:58 Log4net_Core2._2.Controllers.ValuesController [? ?] - We are in Get Method 
+INFO  05-43-2019 11:43:54 Log4net_Core2._2.Controllers.ValuesController stacktrace{2} [? ?] - We are in Get Method 
+INFO  05-48-2019 11:48:22 Log4net_Core2._2.Controllers.ValuesController stacktrace{2} [? ?] - We are in Get Method 
+05/06/2019 11:49:29.044 AM [9] INFO Log4net_Core2._2.Controllers.ValuesController [? ? ?] [? ?] - 
+We are in Get Method
+05/06/2019 12:05:16.360 PM [10] INFO MyDefaultLoggger [? ? ?] [? ?] - 
+this is info
+INFO  2019-06-05 12:23:01 – [9] this is info method:? 
+ stacktrace:stacktrace{5} 
+ type:? 
+ line: ? 
+INFO  2019-06-05 12:23:01 – [9] We are in Get Method method:? 
+ stacktrace:stacktrace{5} 
+ type:? 
+ line: ? 
+INFO  2019-06-05 12:25:23 – [11] this is info method:? 
+ stacktrace:stacktrace{5} 
+ type:? 
+ line: ? 
+INFO  2019-06-05 12:25:23 – [11] We are in Get Method method:? 
+ stacktrace:stacktrace{5} 
+ type:? 
+ line: ? 
+INFO  2019-06-05 12:25:39 – [15] this is info method:? 
+ stacktrace:stacktrace{5} 
+ type:? 
+ line: ? 
+INFO  2019-06-05 12:25:39 – [15] We are in Get Method method:? 
+ stacktrace:stacktrace{5} 
+ type:? 
+ line: ? 
+05/06/2019 12:26:59.711 PM [6] INFO MyDefaultLoggger [? ? ?] [? ?] - 
+this is info
+05/06/2019 12:26:59.744 PM [6] INFO Log4net_Core2._2.Controllers.ValuesController [? ? ?] [? ?] - 
+We are in Get Method
+05/06/2019 12:29:06.514 PM [7] INFO MyDefaultLoggger [? ? ?] [? ?] - 
+this is info
+05/06/2019 12:29:06.532 PM [7] INFO Log4net_Core2._2.Controllers.ValuesController [? ? ?] [? ?] - 
+We are in Get Method
+05/06/2019 12:38:17.608 PM [11] INFO MyDefaultLoggger [? ? ?] [? ?] - 
+this is info
+05/06/2019 12:38:17.685 PM [11] INFO Log4net_Core2._2.Controllers.ValuesController [? ? ?] [? ?] - 
+We are in Get Method
